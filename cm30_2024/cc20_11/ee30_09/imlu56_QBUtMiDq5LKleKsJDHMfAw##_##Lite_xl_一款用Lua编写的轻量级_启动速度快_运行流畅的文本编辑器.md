@@ -1,6 +1,6 @@
-# Lite XL:一款用 Lua 编写的轻量级,启动速度快,运行流畅的文本编辑器
-
 [原文地址](https://mp.weixin.qq.com/s/QBUtMiDq5LKleKsJDHMfAw)
+
+# Lite XL:一款用 Lua 编写的轻量级,启动速度快,运行流畅的文本编辑器
 
 **原创** **超新星** [GetJoB超新星](javascript:void(0);) *2024年11月05日 00:01* *湖南*
 

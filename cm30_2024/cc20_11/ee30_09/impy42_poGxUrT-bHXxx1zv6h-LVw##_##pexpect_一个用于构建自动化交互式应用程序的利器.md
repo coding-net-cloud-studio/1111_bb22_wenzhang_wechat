@@ -1,6 +1,7 @@
+[原文地址](https://mp.weixin.qq.com/s/poGxUrT-bHXxx1zv6h-LVw)
+
 # Pexpect：一个用于构建自动化交互式应用程序的利器
 
-[原文地址](https://mp.weixin.qq.com/s/poGxUrT-bHXxx1zv6h-LVw)
 
 **原创** **小白这样学Python** [小白这样学Python](javascript:void(0);) *2024年11月06日 00:02* *湖南*
 

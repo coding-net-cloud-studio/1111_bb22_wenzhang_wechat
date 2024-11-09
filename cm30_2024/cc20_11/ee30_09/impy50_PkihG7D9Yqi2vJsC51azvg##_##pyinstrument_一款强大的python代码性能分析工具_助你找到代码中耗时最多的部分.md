@@ -1,6 +1,7 @@
+[原文地址](https://mp.weixin.qq.com/s/PkihG7D9Yqi2vJsC51azvg)
+
 # Pyinstrument:一款强大的 Python 代码性能分析工具,助你找到代码中耗时最多的部分
 
-[原文地址](https://mp.weixin.qq.com/s/PkihG7D9Yqi2vJsC51azvg)
 
 **原创** **小白这样学Python** [小白这样学Python](javascript:void(0);) *2024年11月09日 00:02* *湖南*
 

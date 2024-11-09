@@ -1,6 +1,7 @@
+[原文地址](https://mp.weixin.qq.com/s/zYJU70P3jNvlVIXANnMALA)
+
 # 群晖NAS搭建一款纯粹,干净的Markdown开源笔记软件
 
-[原文地址](https://mp.weixin.qq.com/s/zYJU70P3jNvlVIXANnMALA)
 
 **原创** **老宁** [他们都叫我老宁](javascript:void(0);) *2024年03月25日 07:30* *云南*
 
