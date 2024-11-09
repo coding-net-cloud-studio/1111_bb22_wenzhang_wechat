@@ -68,28 +68,28 @@ services:
 1. 登录群晖面板,打开Container Manager套件
 2. 在注册表中搜索 `dullage/flatnotes`,下载最新版本的镜像
 
-![图片](wmimages/640%5B3%5D.webp)
+![图片](attachments/640%5B3%5D.webp)
 
 3. 创建存放数据的文件夹(test/flatnotes)
 
-![图片](wmimages/640%5B4%5D.webp)
+![图片](attachments/640%5B4%5D.webp)
 
 4. 设置文件夹权限为Everyone可读写
 
-![图片](wmimages/640%5B5%5D.webp)
+![图片](attachments/640%5B5%5D.webp)
 
 5. 打开镜像界面,选择刚下载的flatnotes镜像,点击"运行"
 6. 在创建容器时,设置端口转发,本地端口8080转发到容器的8080端口(如果冲突就设置别的本地端口)
 
-![图片](wmimages/640%5B6%5D.webp)
+![图片](attachments/640%5B6%5D.webp)
 
 7. 新增存储空间设置,容器的/data映射到flatnotes群晖文件夹
 
-![图片](wmimages/640%5B7%5D.webp)
+![图片](attachments/640%5B7%5D.webp)
 
 8. 增加环境变量如下图,用户名和密码可按需更改
 
-![图片](wmimages/640%5B8%5D.webp)
+![图片](attachments/640%5B8%5D.webp)
 
 9. 确定设置后,启动容器即完成部署
 
@@ -97,15 +97,15 @@ services:
 
 项目运行成功后,通过浏览器访问[http://你的设备IP:8080]flatnotes的前端界面,输入环境变量中的用户名和密码进行登录
 
-![图片](wmimages/640%5B9%5D.webp)
+![图片](attachments/640%5B9%5D.webp)
 
 搜索所有笔记
 
-![图片](wmimages/640%5B10%5D.webp)
+![图片](attachments/640%5B10%5D.webp)
 
 书写和预览模式
 
-![图片](wmimages/640%5B11%5D.webp)
+![图片](attachments/640%5B11%5D.webp)
 
 ## 我是老宁
 
@@ -113,6 +113,6 @@ services:
 
 专注NAS相关技术分享,原创!干货!
 
-![图片](wmimages/640%5B12%5D.webp)
+![图片](attachments/640%5B12%5D.webp)
 
 觉得老宁的文章对你有帮助,记得 **点赞,收藏,加关注** !

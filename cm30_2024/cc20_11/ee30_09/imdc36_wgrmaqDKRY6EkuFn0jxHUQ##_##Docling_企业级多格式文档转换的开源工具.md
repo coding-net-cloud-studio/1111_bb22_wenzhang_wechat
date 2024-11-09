@@ -3,7 +3,7 @@
 
 **原创** **JJJohn** [AGI Hunt](javascript:void(0);) *2024年11月07日 07:00* *北京*
 
-![](wmimages/300.png)
+![](attachments/300.png)
 
 **AGI Hunt**关注AGI 的沿途风景!
 
@@ -13,7 +13,7 @@
 
 **一个多格式文档转换工具诞生了!**
 
-![图片](wmimages/640%5B28%5D.webp)
+![图片](attachments/640%5B28%5D.webp)
 
 企业级RAG系统再添利器, **IBM最新开源的文档解析工具Docling** ,让PDF,Word,PPT等多种格式文档的处理变得如此简单.
 
@@ -28,7 +28,7 @@
 * **OCR支持** :轻松处理扫描版PDF
 * **统一输出** :将所有文档转换为标准的DoclingDocument格式
 
-![图片](wmimages/640%5B29%5D.webp)
+![图片](attachments/640%5B29%5D.webp)
 
 ## 为RAG而生的神器
 
@@ -68,7 +68,7 @@ IBM的工程师们可不满足于此.他们已经在规划下一步的升级:
 
 这些功能的加入,将让Docling在文档处理领域变得更加强大.
 
-![图片](wmimages/640%5B30%5D.webp)
+![图片](attachments/640%5B30%5D.webp)
 
 作为一个开源项目,Docling已经在GitHub上获得了6k 关注.它不仅支持macOS,Linux和Windows,还同时兼容x86_64和arm64架构.
 

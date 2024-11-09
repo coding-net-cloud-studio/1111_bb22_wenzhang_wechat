@@ -6,7 +6,7 @@
 
 > Pyinstrument 是一款强大的 Python 代码性能分析工具,它能帮助你找到代码中耗时最多的部分,从而进行优化,提升程序执行效率.它就像一把探照灯,照亮了代码执行的黑暗角落,让你清晰地看到代码运行的真实情况.
 
-![图片](wmimages/640%5B13%5D.webp)
+![图片](attachments/640%5B13%5D.webp)
 
 ### 便捷的命令行使用
 
@@ -26,7 +26,7 @@ Pyinstrument 提供了一系列参数,可以定制报告内容和展现方式:
 * • `-t`:渲染成时间线模式,保留调用顺序,不折叠重复调用.
 * • `--hide`:隐藏指定路径的函数调用信息,例如 `--hide '*/lib/*'` 隐藏所有库函数的调用.
 * • `--show`:显式展示指定路径的函数调用信息,即使被 `--hide` 隐藏.
-* ![图片](wmimages/640%5B14%5D.webp)
+* ![图片](attachments/640%5B14%5D.webp)
 
 ### 灵活的 Python API
 
@@ -40,7 +40,7 @@ Pyinstrument 提供了一系列参数,可以定制报告内容和展现方式:
 
 Pyinstrument 提供了 `%%pyinstrument` 魔法命令,方便在 Jupyter Notebook 或 IPython 环境中进行性能分析,可以分析单个代码行或代码块.
 
-![图片](wmimages/640%5B15%5D.webp)
+![图片](attachments/640%5B15%5D.webp)
 
 ### 集成到 Web 框架
 

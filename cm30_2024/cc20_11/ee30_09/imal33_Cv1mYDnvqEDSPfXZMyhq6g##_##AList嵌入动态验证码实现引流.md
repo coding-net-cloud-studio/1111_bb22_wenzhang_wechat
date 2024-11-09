@@ -4,7 +4,7 @@
 
 **原创** **软件接口平台** [软件接口平台](javascript:void(0);) *2024年08月23日 11:45* *广东*
 
-![图片](wmimages/640%5B22%5D.webp)
+![图片](attachments/640%5B22%5D.webp)
 
 ## 前言
 
@@ -26,7 +26,7 @@ THINKPHP5.1+Redis+mysql
 
 嵌入位置看下图
 
-![图片](wmimages/640%5B23%5D.webp)
+![图片](attachments/640%5B23%5D.webp)
 
 ```
 <script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool'></script>
@@ -266,7 +266,7 @@ class Code
 
 ## 示例网址
 
-[https://pan.metanetdisk.com/](https://pan.metanetdisk.com/)![图片](wmimages/640%5B24%5D.webp)
+[https://pan.metanetdisk.com/](https://pan.metanetdisk.com/)![图片](attachments/640%5B24%5D.webp)
 
 ## 本人作者
 
@@ -274,7 +274,7 @@ Soujer
 
 **置顶 软件接口平台 公众号**
 
-**每天外卖红包领不停![图片](wmimages/640%5B25%5D.webp)**
+**每天外卖红包领不停![图片](attachments/640%5B25%5D.webp)**
 
 ○
 
@@ -282,10 +282,10 @@ Soujer
 
 ○
 
-![图片](wmimages/640.png)
+![图片](attachments/640.png)
 
-![图片](wmimages/640%5B26%5D.webp)
+![图片](attachments/640%5B26%5D.webp)
 
 **记得这是一个有深度的公众号**
 
-![图片](wmimages/640%5B27%5D.webp)
+![图片](attachments/640%5B27%5D.webp)
