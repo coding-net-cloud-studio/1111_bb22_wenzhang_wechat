@@ -1,5 +1,7 @@
 # Pexpect：一个用于构建自动化交互式应用程序的利器
 
+[原文地址](https://mp.weixin.qq.com/s/poGxUrT-bHXxx1zv6h-LVw)
+
 **原创** **小白这样学Python** [小白这样学Python](javascript:void(0);) *2024年11月06日 00:02* *湖南*
 
 > Pexpect 是一个强大的 Python 库，它使得 Python 在控制其他应用程序方面更加得心应手。Pexpect 的工作原理类似于 Don Libes 的 Expect，它允许你的脚本生成子应用程序并像人类输入命令一样控制它。
