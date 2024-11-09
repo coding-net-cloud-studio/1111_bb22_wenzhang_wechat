@@ -3,7 +3,7 @@
 
 **原创** **老邓** [印象Python](javascript:void(0);) *2024年11月04日 08:00* *陕西*
 
-![](http://mmbiz.qpic.cn/mmbiz_png/eGDCPb6odyD8kYl4OL8mDoS4GRG0Krt9Wws4deY68B556NXU0qhRQ7ID0VouNmcX79SKMVUiavVvo8dH98sFyvQ/300?wx_fmt=png&wxfrom=19)
+![](wmimages/300%5B1%5D.png)
 
 **印象Python**提供一系列python技术文章.数据分析,网络爬虫,计算机底层文章等高质量技术文章!!
 
