@@ -90,3 +90,48 @@ assert squares[-3:]==[9,16,25]  # <-- 断言在这里说明了结果.
 这个项目提供了一个系统学习 Python 的绝佳途径,无论你是初学者还是有一定经验的开发者,都能从中受益匪浅.赶紧来体验吧!
 
 **项目地址:https://github.com/trekhleb/learn-python**
+
+#### cloudstudio中遇到的问题
+```bash
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+autopep8 2.3.1 requires pycodestyle>=2.12.0, but you have pycodestyle 2.3.1 which is incompatible.
+
+referencing 0.35.1 requires attrs>=22.2.0, but you have attrs 18.1.0 which is incompatible.
+pylama 8.4.1 requires mccabe>=0.7.0, but you have mccabe 0.6.1 which is incompatible.
+pylama 8.4.1 requires pycodestyle>=2.9.1, but you have pycodestyle 2.3.1 which is incompatible.
+pylama 8.4.1 requires pyflakes>=2.5.0, but you have pyflakes 1.6.0 which is incompatible.
+asttokens 2.4.1 requires six>=1.12.0, but you have six 1.11.0 which is incompatible.
+jsonschema 4.23.0 requires attrs>=22.2.0, but you have attrs 18.1.0 which is incompatible.
+trio 0.26.2 requires attrs>=23.2.0, but you have attrs 18.1.0 which is incompatible.
+outcome 1.3.0.post0 requires attrs>=19.2.0, but you have attrs 18.1.0 which is incompatible.
+```
+
+#### 修订后的requirement
+```bash
+pycodestyle==2.12.0
+
+mccabe==0.7.0
+pyflakes
+attrs==23.2.0
+
+six==1.12.0
+
+astroid==2.0.4
+atomicwrites==1.1.5
+
+flake8
+isort==4.3.4
+lazy-object-proxy==1.3.1
+
+more-itertools==4.3.0
+pluggy==0.7.1
+py==1.5.4
+
+
+pylint==2.1.1
+pytest==3.7.2
+
+wrapt==1.10.11
+
+
+```
